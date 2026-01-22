@@ -1,16 +1,11 @@
-# clothesecommerce
+# Ecommerce App
 
-A new Flutter project.
+تطبيق متجر متكامل (Full-Stack) يدير الحسابات، المنتجات، الفئات، السلة، والطلبات مع نظام تقارير. مطور بـ Flutter وASP.NET باتباع Clean Architecture وCubit. يجمع بين قوة الـ REST API وأمان التخزين المحلي (Secure Storage) لضمان أداء احترافي وقابل للتوسع.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Key Features
+* Auth (Login/Register)
+* Category & Product Management
+* Cart & Order System
+* Statistics & Reports
+* Clean Architecture & Cubit
+* Local Storage
