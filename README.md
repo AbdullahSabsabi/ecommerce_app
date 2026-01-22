@@ -1,6 +1,6 @@
 # Ecommerce App
+Full-stack E-commerce app featuring Auth, product/category management, cart, and orders. Built with Flutter and ASP.NET Core using Clean Architecture and Cubit for state management. Integrates REST APIs with Secure Storage to deliver a scalable, production-ready solution with comprehensive reporting.
 
-تطبيق متجر متكامل (Full-Stack) يدير الحسابات، المنتجات، الفئات، السلة، والطلبات مع نظام تقارير. مطور بـ Flutter وASP.NET باتباع Clean Architecture وCubit. يجمع بين قوة الـ REST API وأمان التخزين المحلي (Secure Storage) لضمان أداء احترافي وقابل للتوسع.
 
 ## Key Features
 * Auth (Login/Register)
